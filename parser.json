@@ -1,8 +1,7 @@
 {
-  "location": null,
-  "min_version": null,
   "url": "https://github.com/alexmozaidze/tree-sitter-fennel",
   "semver": false,
-  "lang": "fennel",
-  "max_version": null
+  "parser_version": "3f0f6b24d599e92460b969aabc4f4c5a914d15a0",
+  "location": null,
+  "lang": "fennel"
 }
